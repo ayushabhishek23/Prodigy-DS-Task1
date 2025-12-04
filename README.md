@@ -46,7 +46,7 @@ key_insights:
 
 connect_with_me:
   name: "Ayush Abhishek Gupta"
-  email: "ayushag374@gmail.com"
+  email: "ayushabhishek.spn@gmail.com"
   linkedin: "https://www.linkedin.com/in/ayush-abhishek-gupta"
 
 footer: >
