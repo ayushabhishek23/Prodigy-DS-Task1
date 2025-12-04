@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship — Task 3: Decision Tree Classifier
+# Prodigy InfoTech Internship — Task 1: Data Visualization
 Welcome to my Prodigy InfoTech Data Science Internship repository!  
 This repository contains Task 1, which focuses on visually analyzing dataset distributions using charts and graphs to uncover meaningful insights.
 
